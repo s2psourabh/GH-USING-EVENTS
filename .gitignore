@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+
+#Workflow file
 demo1.yml
 
 # Editor directories and files
